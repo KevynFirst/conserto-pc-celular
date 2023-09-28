@@ -3,7 +3,7 @@
 <br>
 
 <h2 align="center">📖Descrição</h2>
-<p align="center">Projeto simples descrevendo meus serviços de manutenção de computadores e celulares que faço como renda extra. Aqui eu utilizo HTML5, CSS3 e JavaScript, 100% responsivo.</p>
+<p align="center">Projeto front-end simples descrevendo meus serviços de manutenção de computadores e celulares que faço como renda extra. Aqui eu utilizo HTML5, CSS3 e JavaScript, 100% responsivo.</p>
 
 <h2 align="center">🖥Preview</h2>
 <img src="imagens/SharedScreenshot.jpg" alt="Preview desktop"></img>
